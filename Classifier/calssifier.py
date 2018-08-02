@@ -26,9 +26,6 @@ class ScrappyKNN():
         return self.y_train[best_index]
 
 
-
-
-
 from sklearn import datasets
 iris = datasets.load_iris()
 
